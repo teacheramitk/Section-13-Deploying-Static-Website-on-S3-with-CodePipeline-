@@ -1,8 +1,6 @@
 # Section-13-Deploying-Static-Website-on-S3-with-CodePipeline-
 
 
-# Deploying-Static-Website-on-S3-(with-CodePipeline)
-
 # Create S3 Static Website - Lab
 
 **Step 1.Goto AWS Management Console>All Services>S3>Create Bucket**
