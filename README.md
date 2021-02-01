@@ -64,7 +64,7 @@ Click on Save changes
 
 **Step 8.See that the static website is working**
 
-# End of lab
+### End of lab
 
 
 # Push Static Website Code to CodeCommit - Lab
@@ -91,7 +91,7 @@ $ git push -u origin master
 **Step 4.Goto AWS Console>CodeCommit>Repositories>s3-static-website**
 - Check and validate that the code has been pushed
 
-# End of lab
+### End of lab
 
 #  Deploy Static Website with CodePipeline (on S3) - Lab
 
@@ -156,4 +156,4 @@ $ git push
 
 **Step 13.After Completion of Pipeline refresh the website page and see the recent changes**
 
-# End of lab
+### End of lab
