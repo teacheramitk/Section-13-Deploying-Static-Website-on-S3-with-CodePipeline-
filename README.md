@@ -4,6 +4,7 @@
 # Create S3 Static Website - Lab
 
 **Step 1.Goto AWS Management Console>All Services>S3>Create Bucket**
+
 Provide the following details-
 - Provide globally unique Bucket name - "static-website-example"
 - Region - Asia Pacific(Mumbai) ap-south-1
@@ -70,6 +71,7 @@ Click on Save changes
 # Push Static Website Code to CodeCommit - Lab
 
 **Step 1.Goto AWS Console>CodeCommit>Repositories>Create Repository**
+
 In repsitory settings-
 - Repository name - s3-static-website
 
